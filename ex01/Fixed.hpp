@@ -6,7 +6,7 @@
 class Fixed
 {
     private:
-        int fixedPointvalue;
+        int _fixedPointvalue;
         static const int decimalPoint = 8;
     public:
         Fixed();
